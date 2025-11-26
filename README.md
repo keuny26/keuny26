@@ -13,3 +13,4 @@
 - ⚡ Fun fact: xxx
 
 ### 2025년 11월 26일 파이썬 개발 환경을 구축하고 나의 첫번째 파이썬
+https://github.com/keuny26/myPRJ01.git
