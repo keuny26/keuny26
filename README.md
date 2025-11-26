@@ -12,7 +12,9 @@
 - 😄 Pronouns: xxx
 - ⚡ Fun fact: xxx
 
-### 2025년 11월 26일 파이선 mbti
+### 2025년 11월 26일 Python mbti
 https://github.com/keuny26/myPRJ01.git
-### 2025년 11월 26일
+### 2025년 11월 26일 Python GUI
 https://github.com/keuny26/mbtiGUI_2025.git
+### 2025년 11월 과제, 관상
+https://github.com/keuny26/CAM_Facecheck.git
