@@ -12,5 +12,7 @@
 - 😄 Pronouns: xxx
 - ⚡ Fun fact: xxx
 
-### 2025년 11월 26일 파이썬 개발 환경을 구축하고 나의 첫번째 파이썬
+### 2025년 11월 26일 파이선 mbti
 https://github.com/keuny26/myPRJ01.git
+### 2025년 11월 26일
+https://github.com/keuny26/mbtiGUI_2025.git
